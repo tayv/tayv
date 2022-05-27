@@ -14,7 +14,7 @@ I'm UX Designer currently working on security software for developers. This is t
 ### Past projects:
 
 <details>
-  <summary>🚗 **Parkadoo** </summary>
+  ** <summary>🚗 Parkadoo </summary> **
 
 Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
 
@@ -84,7 +84,7 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 
 ## Other notes
 
-- 3D UFO graphic designed by me using Spline
+- 3D UFO graphic designed by me using [Spline](https://spline.design/)
 
 </details>
 
