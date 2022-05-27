@@ -1,8 +1,8 @@
 ### Hello 👋
 
-I'm UX Designer currently working on security software for developers. This is the place to view some of my personal coding projects. 
+I'm UX Designer currently working on security software for developers. This is the place to view some of my personal coding projects. Professional design work examples may be available on request.
 
-#### 🔨 Things I'm working on:
+#### 🔧 Things I'm working on:
 
 - Project Bubblegum. An adventure in learning to use Nextjs, Typescript, and Tailwind CSS to develop reusable form components and UI patterns.
 
@@ -14,7 +14,7 @@ I'm UX Designer currently working on security software for developers. This is t
 ### Past projects:
 
 <details>
-  <summary><span style="color:blue">🚗 *Parkadoo*</span></summary>
+  <summary>🚗 **Parkadoo** </summary>
 
 Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
 
@@ -89,11 +89,25 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 </details>
 
 <details>
-  <summary>MK1 Leaderboard</summary>
+  <summary>🏁 **MK1 Leaderboard**</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  # Overview
+The goal of this project was to learn React by creating a visual leaderboard for tracking Mario Kart race results. MK1 is a race league started during the Covid-19 pandemic.
+
+See it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/).
+
+## Design
+
+- Design is not polished. This was primarily a coding project with minimal time spent refinind visual design or interaction patters.
+- Goal: Follow standard race league leaderboards while also allowing users the ability to quickly see rankings by season as well as all-time results.
+- Logo designed by Steve A.
+- If I ever have time the Avatars will be updated to pixel art.
+
+## Code
+
+- Uses React for the UI and Google Sheets API to host/update data. 
+- There's a known async rendering issue with season results on initial page load. Can be fixed by triggering a re-render using the season dropdown. 
+
+
+https://user-images.githubusercontent.com/48400779/139181521-399eb58a-7588-40f9-925b-09eac07bd064.mov
 </details>
