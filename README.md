@@ -14,7 +14,7 @@ I'm UX Designer currently working on security software for developers. This is t
 ### Past projects:
 
 <details>
-  <summary>#### 🚗 Parkadoo</summary>
+  <summary><span style="color:blue">🚗 *Parkadoo*</span></summary>
 
 Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
 
