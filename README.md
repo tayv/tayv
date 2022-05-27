@@ -91,19 +91,21 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 <details>
   <summary>🏁 **MK1 Leaderboard**</summary>
   
-  # Overview
+  ## Overview
 The goal of this project was to learn React by creating a visual leaderboard for tracking Mario Kart race results. MK1 is a race league started during the Covid-19 pandemic.
 
-See it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/).
+See it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/) or view the [public repo](https://github.com/tayv/mk1).
 
-## Design
+## Philosophy
+
+### Design
 
 - Design is not polished. This was primarily a coding project with minimal time spent refinind visual design or interaction patters.
 - Goal: Follow standard race league leaderboards while also allowing users the ability to quickly see rankings by season as well as all-time results.
 - Logo designed by Steve A.
 - If I ever have time the Avatars will be updated to pixel art.
 
-## Code
+### Code
 
 - Uses React for the UI and Google Sheets API to host/update data. 
 - There's a known async rendering issue with season results on initial page load. Can be fixed by triggering a re-render using the season dropdown. 
