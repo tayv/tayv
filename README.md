@@ -14,13 +14,9 @@ I'm UX Designer currently working on security software for developers. This is t
 ### Past projects:
 
 <details>
-  <summary>Parkadoo</summary>
-  
-  # parkadoo
+  <summary>#### 🚗 Parkadoo</summary>
 
-(Private repository)
-
-Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
+Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
 
 ## What is parkadoo?
 This was an experimental project to help people understand Edmonton parking laws better and create a letter that can help with the appeal process. There are three letter types plus the ability to proactively avoid parking tickets:
@@ -80,7 +76,7 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 
 ## How to set up
 
-1. Clone git repository
+1. Clone git repository _(private repository)_
 2. Navigate to project folder and run ```npm run install``` to install dependencies 
 3. Open terminal and run ```npm run start``` to start a local server 
 3. View on localhost address shown in terminal
