@@ -14,9 +14,9 @@ I'm UX Designer currently working on security software for developers. This is t
 ### Past projects:
 
 <details>
-  ** <summary>🚗 Parkadoo </summary> **
+  <summary>🚗 Parkadoo </summary>
 
-Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
+_Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
 
 ## What is parkadoo?
 This was an experimental project to help people understand Edmonton parking laws better and create a letter that can help with the appeal process. There are three letter types plus the ability to proactively avoid parking tickets:
@@ -89,12 +89,12 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 </details>
 
 <details>
-  <summary>🏁 **MK1 Leaderboard**</summary>
+  <summary>🏁 MK1 Leaderboard</summary>
   
   ## Overview
 The goal of this project was to learn React by creating a visual leaderboard for tracking Mario Kart race results. MK1 is a race league started during the Covid-19 pandemic.
 
-See it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/) or view the [public repo](https://github.com/tayv/mk1).
+_See it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/) or view the [public repo](https://github.com/tayv/mk1)._
 
 ## Philosophy
 
