@@ -2,14 +2,14 @@
 
 I'm UX Designer currently working on security software for developers. This is the place to view some of my personal coding projects. Professional design work examples may be available on request.
 
-#### 🔧 Things I'm working on:
+### 🔧 Things I'm working on:
 
 - [Project Bubblegum](https://github.com/tayv/Project-Bubblegum). An adventure in learning to use Nextjs, Typescript, and Tailwind CSS to develop reusable form components and UI patterns.
 
 
-#### 🌱 Things I'm learning:
+### 🌱 Things I'm learning:
 
-- Typescript, MySQL databases (through PlanetScale), and React.
+- Typescript, MySQL databases (through PlanetScale), and React + Nextjs.
 
 ### Past projects:
 
