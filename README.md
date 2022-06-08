@@ -16,7 +16,9 @@ I'm UX Designer currently working on security software for developers. This is t
 <details>
   <summary>🚗 Parkadoo </summary>
 
-_Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
+<p class="callout info">
+  _Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
+</p>
 
 ## What is parkadoo?
 This was an experimental project to help people understand Edmonton parking laws better and create a letter that can help with the appeal process. There are three letter types plus the ability to proactively avoid parking tickets:
