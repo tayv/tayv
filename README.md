@@ -17,7 +17,7 @@ I'm UX Designer currently working on security software for developers. This is t
   <summary>🚗 Parkadoo </summary>
   <br>
   
-  > _Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
+  > _Private repository. See it in action at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
 
 
 ## What is parkadoo?
@@ -92,17 +92,19 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 
 <details>
   <summary>🏁 MK1 Leaderboard</summary>
-  
-  ## Overview
-The goal of this project was to learn React by creating a visual leaderboard for tracking Mario Kart race results. MK1 is a race league started during the Covid-19 pandemic.
+  <br>  
 
-_See it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/) or view the [public repo](https://github.com/tayv/mk1)._
+  > _ View the [public repo](https://github.com/tayv/mk1). or see it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/)_
+
+## What is MK1?
+MK1 is a Mario Kart race league started during the Covid-19 pandemic. This project was a way for me to learn React by creating a visual leaderboard that could be used by the league to better track race results. 
+
 
 ## Philosophy
 
 ### Design
 
-- Design is not polished. This was primarily a coding project with minimal time spent refinind visual design or interaction patters.
+- Design is not polished. This was primarily a coding project with minimal time spent refining visual design or interaction patterns.
 - Goal: Follow standard race league leaderboards while also allowing users the ability to quickly see rankings by season as well as all-time results.
 - Logo designed by Steve A.
 - If I ever have time the Avatars will be updated to pixel art.
