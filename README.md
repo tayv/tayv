@@ -13,7 +13,7 @@ I'm UX Designer currently working on security software for developers. This is t
 
 ### Past projects:
 
-<details>
+*<details>
   <summary>🚗 Parkadoo </summary>
   <br>
   
@@ -91,7 +91,7 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 
 <br>
 
-</details>
+</details>*
 
 <details>
   <summary>🏁 MK1 Leaderboard</summary>
