@@ -16,7 +16,8 @@ I'm UX Designer currently working on security software for developers. This is t
 <details>
   <summary>🚗 Parkadoo </summary>
   <br>
-> _Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
+  
+  > _Private repository. Available to view at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
 
 
 ## What is parkadoo?
