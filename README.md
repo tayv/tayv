@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
   <summary>🏁 MK1 Leaderboard</summary>
   <br>  
 
-  > _ View the [public repo](https://github.com/tayv/mk1). or see it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/)_
+  > _View the [public repo](https://github.com/tayv/mk1). or see it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/)_
 
 ## What is MK1?
 MK1 is a Mario Kart race league started during the Covid-19 pandemic. This project was a way for me to learn React by creating a visual leaderboard that could be used by the league to better track race results. 
