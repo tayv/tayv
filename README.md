@@ -78,15 +78,18 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 
 ## How to set up
 
-1. Clone git repository _(private repository)_
-2. Navigate to project folder and run ```npm run install``` to install dependencies 
-3. Open terminal and run ```npm run start``` to start a local server 
-3. View on localhost address shown in terminal
+1. Request access to private repository
+2. Clone git repository 
+3. Navigate to project folder and run ```npm run install``` to install dependencies 
+4. Open terminal and run ```npm run start``` to start a local server 
+5. View on localhost address shown in terminal
 
 
 ## Other notes
 
 - 3D UFO graphic designed by me using [Spline](https://spline.design/)
+
+<br>
 
 </details>
 
@@ -94,7 +97,7 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
   <summary>🏁 MK1 Leaderboard</summary>
   <br>  
 
-  > _View the [public repo](https://github.com/tayv/mk1). or see it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/)_
+  > _View the [public repo](https://github.com/tayv/mk1) or see it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/)_
 
 ## What is MK1?
 MK1 is a Mario Kart race league started during the Covid-19 pandemic. This project was a way for me to learn React by creating a visual leaderboard that could be used by the league to better track race results. 
@@ -116,4 +119,6 @@ MK1 is a Mario Kart race league started during the Covid-19 pandemic. This proje
 
 
 https://user-images.githubusercontent.com/48400779/139181521-399eb58a-7588-40f9-925b-09eac07bd064.mov
+
+<br>
 </details>
