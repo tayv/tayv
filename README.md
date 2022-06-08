@@ -94,7 +94,7 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 </details>
 
 <details>
-  <summary>🏁 MK1 Leaderboard</summary>
+  <summary>🏁 <strong>MK1 Leaderboard</strong></summary>
   <br>  
 
   > _View the [public repo](https://github.com/tayv/mk1) or see it in action at [https://mk1racing.netlify.app/](https://mk1racing.netlify.app/)_
