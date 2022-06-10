@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm UX Designer currently working on security software for developers. This is the place to view some of my personal coding projects. Professional design work examples may be available on request.
+I'm a UX Designer that spends my days making enterprise security software easier to use. This is the place to view some of my personal coding projects that I complete in my free time. Professional design portfolio may be available upon request.
 
 #### 🔧 Things I'm working on:
 
