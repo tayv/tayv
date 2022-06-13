@@ -111,6 +111,7 @@ MK1 is a Mario Kart race league started during the Covid-19 pandemic. This proje
 - Goal: Follow standard race league leaderboards while also allowing users the ability to quickly see rankings by season as well as all-time results.
 - Logo designed by Steve A.
 - If I ever have time the Avatars will be updated to pixel art.
+- Pixel art background created by me using Figma
 
 ### Code
 
