@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a UX Designer that spends my days making enterprise security software easier to use. This is the place to view some of my personal coding projects that I complete in my free time. Professional design portfolio available upon request.
+I'm a Product/UX Designer that spends my days making enterprise security software easier to use. This is the place to view some of my personal coding projects that I complete in my free time. Professional design portfolio available upon request.
 
 #### 🔧 Things I'm working on:
 
