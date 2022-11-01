@@ -17,7 +17,7 @@ I'm a Product/UX Designer that spends my days making enterprise security softwar
   <summary>🚗 <strong>Parkadoo</strong> </summary>
   <br>
   
-  > _Private repository. See it in action at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
+  > See it in action at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
 
 
 ## What is parkadoo?
