@@ -17,7 +17,7 @@ I'm a Product/UX Designer that spends my days making enterprise security softwar
   <summary>🚗 <strong>Parkadoo</strong> </summary>
   <br>
   
-  > See it in action at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)_
+  > See it in action at [parkadoo.com](https://parkadoo.com) or [parkadoo.netlify.app](parkadoo.netlify.app/)
 
 
 ## What is parkadoo?
@@ -78,11 +78,10 @@ https://user-images.githubusercontent.com/48400779/139736229-f5e7fa38-093d-45a0-
 
 ## How to set up
 
-1. Request access to private repository
-2. Clone git repository 
-3. Navigate to project folder and run ```npm run install``` to install dependencies 
-4. Open terminal and run ```npm run start``` to start a local server 
-5. View on localhost address shown in terminal
+1. [Clone repo](https://github.com/tayv/parkadoo)
+2. Navigate to project folder and run ```npm run install``` to install dependencies 
+3. Open terminal and run ```npm run start``` to start a local server 
+4. View on localhost address shown in terminal
 
 
 ## Other notes
