@@ -4,7 +4,7 @@ I'm a Product/UX Designer that spends my days making enterprise security softwar
 
 #### 🔧 Things I'm working on:
 
-- [Project Bubblegum](https://github.com/tayv/Project-Bubblegum). An adventure in learning to use Nextjs, Typescript, and Tailwind CSS to develop reusable form components and UI patterns.
+- [Project Bubblegum](https://github.com/tayv/Project-Bubblegum). A design system built with Nextjs, Typescript, and Tailwind CSS to focused on creating reusable form components and UI patterns.
 
 
 #### 🌱 Things I'm learning:
