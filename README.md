@@ -6,11 +6,6 @@ I'm a Product/UX Designer that spends my days making enterprise security softwar
 
 - [Project Bubblegum](https://github.com/tayv/Project-Bubblegum). A design system built with Nextjs, Typescript, and Tailwind CSS to focused on creating reusable form components and UI patterns.
 
-
-#### 🌱 Things I'm learning:
-
-- Typescript, MySQL databases (through PlanetScale), and React + Nextjs.
-
 ### Past projects:
 
 <details>
