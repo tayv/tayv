@@ -1,10 +1,11 @@
 ### Hello 👋
 
-I'm a Product/UX Designer with experience making SAAS and enterprise security products easier to use. This is the place to view some of my personal coding projects. Professional design portfolio available upon [request](mailto:tjvander@ualberta.ca).
+I'm a Product/UX Designer with experience making SAAS and enterprise security products easier to use. This is the place to view some of my coding projects. Professional design portfolio available upon [request](mailto:tjvander@ualberta.ca).
 
 #### 🔧 Things I'm working on:
 
 - [Project Bubblegum](https://github.com/tayv/Project-Bubblegum). A design system built with Nextjs, Typescript, and Tailwind CSS. Focused on simple and usable form components and UI patterns.
+  - [Bubblegum UI Documentation](https://bubblegumui.vercel.app/)   
 
 ### Past projects:
 
