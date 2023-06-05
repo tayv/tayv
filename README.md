@@ -4,8 +4,9 @@ I'm a Product/UX Designer with experience making SAAS and enterprise security pr
 
 #### 🔧 Things I'm working on:
 
-- [Project Bubblegum](https://github.com/tayv/Project-Bubblegum). A design system built with Nextjs, Typescript, and Tailwind CSS. Focused on simple and usable form components and UI patterns.
+- Project Bubblegum. A design system and project template built with Nextjs (App Router), Typescript, and Tailwind CSS. Focused on simple and usable form components and UI patterns.
   - [Bubblegum UI Documentation](https://bubblegumui.vercel.app/)   
+  - [Project Bubblegum Template Repo](https://github.com/tayv/Project-Bubblegum)
 
 ### Past projects:
 
